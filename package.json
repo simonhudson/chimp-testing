@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/simonhudson/chimp-testing/issues"
   },
-  "homepage": "https://github.com/simonhudson/chimp-testing#readme"
+  "homepage": "https://github.com/simonhudson/chimp-testing#readme",
+  "devDependencies": {
+    "chimp": "^0.49.1",
+    "mocha": "^3.5.0"
+  }
 }
